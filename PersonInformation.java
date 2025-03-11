@@ -63,22 +63,22 @@ public class PersonInformation {
     }
 }
 
-//Sample Output
-//Enter name:
-//Manan
-//Enter age:
-//        22
-//Enter phone number:
-//        98989898
-//
-//Original Person Details:
-//Name: Manan
-//Age: 22
-//Phone Number: 98989898
-//
-//Cloned Person Details:
-//Name: Manan
-//Age: 22
-//Phone Number: 98989898
 
+/*
+Enter name:
+Div
+Enter age:
+20
+Enter phone number:
+123456789
 
+Original Person Details:
+Name: Div
+Age: 20
+Phone Number: 123456789
+
+Cloned Person Details:
+Name: Div
+Age: 20
+Phone Number: 123456789
+ */

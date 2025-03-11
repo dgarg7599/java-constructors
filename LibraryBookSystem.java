@@ -30,7 +30,7 @@ class Books {
     }
 }
 
-public class LibrarySystem {
+public class LibraryBookSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
