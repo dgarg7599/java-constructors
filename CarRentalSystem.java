@@ -44,13 +44,21 @@ public class CarRentalSystem {
     }
 }
 
-//Sample Output
-//Enter customer name: Manan Gupta
-//Enter car model: Mercedes Benz
-//Enter number of rental days: 10
-//
-//Rental Details:
-//Customer Name: Manan Gupta
-//Car Model: Mercedes Benz
-//Rental Days: 10
-//Total Cost: 500.0
+/*
+Enter name:
+Div
+Enter age:
+20
+Enter phone number:
+123456789
+
+Original Person Details:
+Name: Div
+Age: 20
+Phone Number: 123456789
+
+Cloned Person Details:
+Name: Div
+Age: 20
+Phone Number: 123456789
+ */
